@@ -20,7 +20,7 @@ const Header = () => {
         </nav>
 
 <a 
-  href="https://wa.me/51921597087?text=Hola,%20quisiera%20más%20información%20sobre%20Como%20ser%20un%20Kchalote%20Salvaje" 
+  href="https://wa.me/51921597087?text=Hola,%20quisiera%20ser%20parte%20de%20Thunder%20Gym%20!%20" 
   target="_blank"
   rel="noopener noreferrer"
   className={styles.ctaButton}

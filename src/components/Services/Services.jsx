@@ -22,14 +22,9 @@ const Services = () => {
       title: "Cardio",
       desc: "Zona de cardio con maquinas, cardio hit y entrenamientos de potencia"
     },
+    
     {
       id: 4,
-      icon: <FaStopwatch />,
-      title: "Servico y Cupos disponibles",
-      desc: ""
-    },
-    {
-      id: 5,
       icon: <FaStopwatch />,
       title: "Area de BOXEO",
       desc: "Profesores capacitados "
