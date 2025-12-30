@@ -7,7 +7,7 @@ This project represents a shift from simulation to **real-world application**, f
 ---
 ## Live Demo
 
-
+https://thunder-gym.vercel.app/
 
 ## Features
 
@@ -89,7 +89,7 @@ GYM-PRO/
 
 # Clone repository
 
-git clone 
+git clone https://github.com/Min0sss/ThunderGym.git
 
 
 # Navigate to project directory
